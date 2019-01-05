@@ -1,3 +1,3 @@
 Learning Git is going well so far...
 I added this line in the update-readme branch.
-Its a sunny outside today.
+Its a windy outside today.
